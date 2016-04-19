@@ -4,3 +4,9 @@ C:\dev\origin\Fallen London\Scholar of the Correspondence\Scholar of the Corresp
 C:\dev\origin\Fallen London\Scholar of the Correspondence\Scholar of the Correspondence\obj\Debug\Scholar of the Correspondence.csprojResolveAssemblyReference.cache
 C:\dev\origin\Fallen London\Scholar of the Correspondence\Scholar of the Correspondence\obj\Debug\Scholar of the Correspondence.exe
 C:\dev\origin\Fallen London\Scholar of the Correspondence\Scholar of the Correspondence\obj\Debug\Scholar of the Correspondence.pdb
+C:\dev\origin\Fallen-London\Scholar of the Correspondence\Scholar of the Correspondence\bin\Debug\Scholar of the Correspondence.exe.config
+C:\dev\origin\Fallen-London\Scholar of the Correspondence\Scholar of the Correspondence\obj\Debug\Scholar of the Correspondence.exe
+C:\dev\origin\Fallen-London\Scholar of the Correspondence\Scholar of the Correspondence\obj\Debug\Scholar of the Correspondence.pdb
+C:\dev\origin\Fallen-London\Scholar of the Correspondence\Scholar of the Correspondence\bin\Debug\Scholar of the Correspondence.exe
+C:\dev\origin\Fallen-London\Scholar of the Correspondence\Scholar of the Correspondence\bin\Debug\Scholar of the Correspondence.pdb
+C:\dev\origin\Fallen-London\Scholar of the Correspondence\Scholar of the Correspondence\obj\Debug\Scholar of the Correspondence.csprojResolveAssemblyReference.cache
