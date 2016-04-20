@@ -57,7 +57,6 @@ namespace Scholar_of_the_Correspondence
                     ChangePoints = 0;
                 }
             }
-            
             Console.WriteLine("To go from SotC {0} to {1}, you will need appromixately Watchful {2}, {3} Correspondence plaques, {4} Extraordinary Implications, and {5} Aeolian Screams.  Good luck!", startingLevel, endLevel, Watchful, CorePlaques, ExtraImps, AeolScreams);
             Console.ReadKey();
         }
